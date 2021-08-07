@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snickerade
+- 👋 Hi, I’m @OlavPL
 - 👀 I’m interested in Games and code
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
