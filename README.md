@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlavPL
 - 👀 I’m interested in Games and code
-- 🌱 I’m currently learning Java, c++ and php
+- 🌱 I’m currently learning Java, c++ and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on discord: Snickerade#9571
 
