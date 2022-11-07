@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlavPL
 - 👀 I’m interested in Games and code
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Java and Android Development /w Kotlin
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me? On discord: Snickerade#9571 or Mail: olavlilleosterholt@hotmail.com
 
