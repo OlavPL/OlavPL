@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlavPL
-- 👀 I’m interested in Games, boulding, & Code
+- 👀 I’m interested in Games, boulerding, & Code
 - 🌱 I’m currently learning C++
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me? On discord: Snickerade#9571 or Mail: olavlilleosterholt@hotmail.com
