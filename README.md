@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlavPL
 - 👀 I’m interested in Games, boulerding, & Code
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C# & Unity, visual computing and AI
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me? On discord: Snickerade or Mail: olavlilleosterholt@hotmail.com
 
