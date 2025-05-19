@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OlavPL
-- 👀 I’m interested in Games, boulerding, & Code
-- 🌱 I’m currently learning C# & Unity, visual computing and VR
+- 👋 Hi, I’m Olav Pålerud Lille-Østerholt
+- 👀 I’m interested in Games, boulerding, & Programming
+- 🌱 I’m currently learning C# & Unity, visual computing and VR development in my master's project at NTNU
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me? Mail: paalerud@hotmail.com
 
